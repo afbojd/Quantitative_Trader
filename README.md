@@ -1,0 +1,2 @@
+# Quantitative_Trader
+涉及量化交易中的所有操作。大部分是用python实现
